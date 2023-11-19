@@ -1,6 +1,6 @@
 # Projeto de Lógica de Programação II
 
-Este é o projeto de conclusão desenvolvido como parte da disciplina de Lógica de Programação II do curso Dados ofertado por meio da parceria Ada e Ifood.
+Este é o projeto de conclusão desenvolvido como parte da disciplina de Lógica de Programação II do curso Dados, oferecido por meio da parceria entre Ada e Ifood.
 
 ## :dart: Objetivo
 O projeto visa consolidar o conhecimento adquirido em lógica de programação, proporcionando uma oportunidade para a aplicação prática de algoritmos. Ao longo do desenvolvimento, exploramos desafios específicos que exigem raciocínio lógico aprimorado e soluções eficientes.
