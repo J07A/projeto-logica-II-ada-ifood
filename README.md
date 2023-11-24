@@ -24,6 +24,6 @@ Para instalar o projeto, siga estas etapas:
 
 * [Camila M. S. de Jesus](https://github.com/camilamsdejesus)
 * [Janaina de Oliveira](https://github.com/J07A)
-* [Pedro Pilon]
+* [Pedro Pilon](https://github.com/PedroPilon19/Exerc-cios-e-Projetos-m-dulo-2-)
 * [Ricardo Jeferson da Silva Francisco](https://github.com/totorourbem)
 * [Tamiris Torres](https://github.com/tamitorres)
