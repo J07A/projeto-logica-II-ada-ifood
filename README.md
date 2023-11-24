@@ -17,6 +17,9 @@ Para instalar o projeto, siga estas etapas:
 ```
   git clone https://github.com/J07A/projeto-logica-II-ada-ifood.git
 ```
+## Usando o projeto
+
+Utilize a branch principal (main).
 
 # Autores
 
