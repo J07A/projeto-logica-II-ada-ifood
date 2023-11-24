@@ -20,10 +20,10 @@ Para instalar o projeto, siga estas etapas:
 
 # Autores
 
-<img src="https://github.com/camilamsdejesus.png" width="100px;"/> <img src="https://github.com/J07A.png" width="100px;"/> <img src="https://github.com/J07A.png" width="100px;"/> <img src="https://github.com/totorourbem.png" width="100px;"/> <img src="https://github.com/tamitorres.png" width="100px;"/>
+<img src="https://github.com/camilamsdejesus.png" width="100px;"/> <img src="https://github.com/J07A.png" width="100px;"/> <img src="https://github.com/PedroPilon19.png" width="100px;"/> <img src="https://github.com/totorourbem.png" width="100px;"/> <img src="https://github.com/tamitorres.png" width="100px;"/>
 
 * [Camila M. S. de Jesus](https://github.com/camilamsdejesus)
 * [Janaina de Oliveira](https://github.com/J07A)
-* [Pedro Pilon]
+* [Pedro Pilon](https://github.com/PedroPilon19)
 * [Ricardo Jeferson da Silva Francisco](https://github.com/totorourbem)
 * [Tamiris Torres](https://github.com/tamitorres)
